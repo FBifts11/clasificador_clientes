@@ -6,4 +6,8 @@ Bruno, Carla, Elena, Gabriela
 
 ## Abandonaron el servicio
 
-ana, Diego, Felipe
+Ana, Diego, Felipe
+
+## Próxima mejora
+
+Ordenar en forma alfabética los nombres de los clientes antes de mostrarlos

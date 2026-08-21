@@ -1,0 +1,6 @@
+cliente_id,nombre,antiguedad_meses,plan,abandono
+1,Ana,4,Basico,1
+2,Bruno,28,Premium,0
+3,Carla,13,Estandar,0
+4,Diego,2,Basico,1
+5,Elena,36,Premium,0

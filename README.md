@@ -8,4 +8,4 @@ Mostrar clientes que siguen utilizando el servicio y cuales no.
 
 ## Ejecución
 
-Ejecutar el programa  desde la raiz del proyecto: python src/estado_clientes.py
+Ejecutar el programa  desde la raiz del proyecto: python3 src/estado_clientes.py
